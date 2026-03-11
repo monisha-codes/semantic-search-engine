@@ -1,0 +1,102 @@
+[
+{
+"title": "Python Programming",
+"content": "Python is a popular programming language widely used for web development, artificial intelligence, and data science."
+},
+{
+"title": "Machine Learning Basics",
+"content": "Machine learning allows computers to learn patterns from data and make predictions without being explicitly programmed."
+},
+{
+"title": "Deep Learning",
+"content": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to process complex data."
+},
+{
+"title": "Artificial Intelligence",
+"content": "Artificial intelligence focuses on building systems that can perform tasks requiring human intelligence such as reasoning and decision making."
+},
+{
+"title": "Natural Language Processing",
+"content": "Natural language processing enables computers to understand, interpret, and generate human language."
+},
+{
+"title": "Computer Vision",
+"content": "Computer vision allows machines to analyze and understand images and videos."
+},
+{
+"title": "Data Science",
+"content": "Data science combines statistics, programming, and domain knowledge to extract insights from data."
+},
+{
+"title": "Big Data",
+"content": "Big data refers to extremely large datasets that require advanced tools and technologies for storage and analysis."
+},
+{
+"title": "Cloud Computing",
+"content": "Cloud computing allows users to access computing resources such as servers and storage over the internet."
+},
+{
+"title": "Cyber Security",
+"content": "Cyber security focuses on protecting systems, networks, and data from digital attacks."
+},
+{
+"title": "Database Systems",
+"content": "Database systems are used to store, manage, and retrieve large amounts of structured information."
+},
+{
+"title": "SQL Databases",
+"content": "SQL databases use structured query language to store and manage relational data."
+},
+{
+"title": "NoSQL Databases",
+"content": "NoSQL databases are designed for handling unstructured and semi-structured data at large scale."
+},
+{
+"title": "PostgreSQL Database",
+"content": "PostgreSQL is an open source relational database known for its reliability and advanced features."
+},
+{
+"title": "Vector Databases",
+"content": "Vector databases store embeddings and allow similarity search for machine learning applications."
+},
+{
+"title": "Embeddings in AI",
+"content": "Embeddings convert text or images into numerical vectors that represent their meaning."
+},
+{
+"title": "Recommendation Systems",
+"content": "Recommendation systems suggest products or content to users based on their preferences and behavior."
+},
+{
+"title": "Search Engines",
+"content": "Search engines help users find relevant information from large collections of documents."
+},
+{
+"title": "Semantic Search",
+"content": "Semantic search focuses on understanding the meaning of queries rather than matching exact keywords."
+},
+{
+"title": "Keyword Search",
+"content": "Keyword search finds documents that contain the exact words used in the search query."
+},
+{
+"title": "Redis Cache",
+"content": "Redis is an in-memory database often used for caching to improve application performance."
+},
+{
+"title": "Django Web Framework",
+"content": "Django is a high-level Python web framework used for building secure and scalable web applications."
+},
+{
+"title": "Streamlit Applications",
+"content": "Streamlit is a Python framework used for building interactive data applications and dashboards."
+},
+{
+"title": "API Development",
+"content": "APIs allow different software systems to communicate and exchange data."
+},
+{
+"title": "Artificial Intelligence Applications",
+"content": "Artificial intelligence is used in healthcare, finance, autonomous vehicles, and many other industries."
+}
+]
